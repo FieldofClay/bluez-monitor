@@ -2,7 +2,7 @@
 A simple Rust BlueZ D-Bus monitor that outputs events to stdout in JSON format.
 
 ## Installation Instructions
-### Depenencies
+### Dependencies
 It requires D-Bus and the BlueZ daemon to be running.
 ### Arch Linux
 Arch users can install from AUR using your favourite package manager.
